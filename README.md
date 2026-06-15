@@ -280,19 +280,6 @@ The test suite covers **90+ tests** organized by feature area:
 
 ---
 
-## GitHub Repository Name Suggestions
-
-Here are some good names for this project:
-
-| Name | Why It Works |
-|---|---|
-| **NanoJS** | Suggests a tiny, lightweight JS runtime |
-| **MiniJS** | Clear, descriptive — a minimal JavaScript engine |
-| **PyScriptEngine** | Descriptive — a Python-based script engine |
-| **PicoJS** | Even smaller-sounding than Nano, still catchy |
-| **MicroV8** | Playful nod to V8, the real JS engine |
-| **TinyJS** | Straightforward and memorable |
-
 > **My top pick: `NanoJS`** — short, catchy, and accurately describes the project.
 
 ---
