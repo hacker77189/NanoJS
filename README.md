@@ -279,9 +279,6 @@ The test suite covers **90+ tests** organized by feature area:
 | `TestEdgeCases` | 7 | Empty programs, nested blocks, typeof, booleans |
 
 ---
-
-> **My top pick: `NanoJS`** — short, catchy, and accurately describes the project.
-
 ---
 
 ## Limitations
